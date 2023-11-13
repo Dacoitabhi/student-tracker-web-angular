@@ -1,4 +1,43 @@
-# Task
+# Student Tracker Web
+
+Student Tracker Web is a web application for tracking student information.
+
+## Features
+
+- Add, edit, and delete student records.
+- View and manage student information easily.
+- Calculate averages and sums for student marks.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed
+- Angular CLI installed (`npm install -g @angular/cli`)
+
+### Installation
+
+1. Clone the repository: `git clone https://github.com/your-username/student-tracker-web.git`
+2. Navigate to the project directory: `cd student-tracker-web`
+3. Install dependencies: `npm install`
+4. Run the application: `ng serve`
+
+## Usage
+
+- Access the application at `http://localhost:4200` in your web browser.
+
+## Contributing
+
+Contributions are welcome! Please follow our [Contribution Guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Thanks to [Angular](https://angular.io/) for the awesome web framework.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
